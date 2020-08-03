@@ -1,3 +1,14 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "yue9944882.github.io"]
+	path = yue9944882.github.io
+	url = https://github.com/yue9944882/yue9944882.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/yue9944882/yue9944882.github.io.git
+	branch = master
+[submodule "themes/yinyang"]
+	path = themes/yinyang
+	url = git@github.com:joway/hugo-theme-yinyang.git

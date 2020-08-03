@@ -1,4 +1,25 @@
-baseURL = "http://example.org/"
+baseURL = "https://yue9944882.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Thanks for Donating @yue9944882"
+theme = "yinyang"
+
+[params]
+mainSections = ["posts"]
+headTitle = "Thanks for donating!"
+disqus = "yue9944882" # disqus account name
+extraHead = '<script async src="https://www.googletagmanager.com/gtag/js?id=UA-xxx"></script>'
+[[params.socials]]
+name = "About"
+link = "https://yue9944882.github.io/about.html"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/yue9944882"
+[[params.socials]]
+name = "Donate-PayPal"
+link = "https://paypal.me/yue9944882"
+[[params.socials]]
+name = "Donate-Wechat"
+link = "https://github.com/yue9944882/hugo/blob/master/wechat.JPG?raw=true"
+[[params.socials]]
+name = "Donate-Alipay"
+link = "https://github.com/yue9944882/hugo/blob/master/alipay.JPG?raw=true"
